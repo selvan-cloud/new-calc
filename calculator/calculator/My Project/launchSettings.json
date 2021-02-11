@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "calculator": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\selvan.av\\source\\repos\\calculator\\calculator\\bin\\Debug\\net5.0-windows\\calculator.exe"
+    }
+  }
+}
